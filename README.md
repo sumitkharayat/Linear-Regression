@@ -1,4 +1,4 @@
-# Linear-Regression on Cryptocurrency Dataset
+MACHINE learning 
 Performing the linear regression on the cryptocurrency market is known for its high volatility and rapid pace. This dataset provides a real-time snapshot of the top 250 cryptocurrencies by market capitalisation 
 
 
